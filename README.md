@@ -1,9 +1,9 @@
-<h1>konicky</h1>
+<h1>koničky</h1>
   <p>hry</p>
 
   ![hra](images/OIP.webp)
   
-  <p>ai obrazky kocek</p>
+  <p>ai obrazky koček</p>
   
   ![To je best](images/Gattuccello.jpg)
 
@@ -11,7 +11,7 @@
 <br>
 [stranka gattuccello](https://perleepirla.blogspot.com/2012/05/scherzi-della-natura-il-gattuccello.html)
 
-<h2>Rating konicku</h2>
+<h2>Rating koničku</h2>
 
   <strong>Roblox-10/10</strong>
   *GTA-6/10*
