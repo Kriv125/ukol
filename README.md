@@ -9,6 +9,11 @@
 
 [odkaz](https://en.wikipedia.org/wiki/67_(number))
 
+<h2>Rating konicku</h2>
+
+  <strong>Roblox-10/10</strong>
+  *GTA-6/10*
+
 <h1>Seznam her</h1>
  
   - Roblox
