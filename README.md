@@ -7,4 +7,4 @@
   
   ![To je best](images/Gattuccello.jpg)
 
-    https://en.wikipedia.org/wiki/67_(number)
+https://en.wikipedia.org/wiki/67_(number)
