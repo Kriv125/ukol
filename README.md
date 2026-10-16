@@ -10,8 +10,8 @@
 [odkaz](https://en.wikipedia.org/wiki/67_(number))
 
 <h1>Seznam her</h1>
-1 - Roblox
+  - Roblox
 
-2 - Brawl Stars
+  - Brawl Stars
 
-- Cs2
+  - Cs2
