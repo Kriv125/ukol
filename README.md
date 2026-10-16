@@ -23,3 +23,6 @@
   - Brawl Stars
 
   - Cs2
+
+<h1>Shrnuti</h1>
+<p>Moje koníčky mi přinášejí radost a nové zkušenosti</p>
