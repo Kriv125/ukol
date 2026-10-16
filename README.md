@@ -8,6 +8,7 @@
   ![To je best](images/Gattuccello.jpg)
 
 [odkaz](https://en.wikipedia.org/wiki/67_(number))
+<br>
 [stranka gattuccello](https://perleepirla.blogspot.com/2012/05/scherzi-della-natura-il-gattuccello.html)
 
 <h2>Rating konicku</h2>
